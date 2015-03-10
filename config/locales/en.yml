@@ -1,0 +1,3 @@
+# English strings go here for Rails i18n
+en:
+  repositoriesProjectId: ProjectID of the project, wich contains subprojects for each repository
